@@ -1,0 +1,17 @@
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\cv210.dll
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\cvaux210.dll
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\cxcore210.dll
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\highgui210.dll
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\ml210.dll
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe.config
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.pdb
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\bin\Debug\OpenCvSharp.dll
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csprojAssemblyReference.cache
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Form1.resources
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Properties.Resources.resources
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.cache
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csproj.CoreCompileInputs.cache
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csproj.CopyComplete
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.exe
+C:\Users\rusir\source\repos\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.pdb
